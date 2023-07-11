@@ -15,8 +15,8 @@ Git branch
 
 Branches are highly important in the git world. By using branches, several developers are able to work in parallel on the same project simultaneously. We can use the git branch command for creating, listing, and deleting branches.
 
-(i)Creating a new branch:
-git branch <branch-name> - This command will create a branch locally.
+(i) Creating a new branch:
+ git branch <branch-name> - This command will create a branch locally.
 
 To push the new branch into the remote repository, you need to use the following command.
 
@@ -38,8 +38,8 @@ git checkout <name-of-your-branch>
 
 There are some steps you need to follow for successfully switching between branches:
 
-•	The changes in your current branch must be committed or stashed before you switch
-•	The branch you want to check out should exist in your local
+• The changes in your current branch must be committed or stashed before you switch
+• The branch you want to check out should exist in your local
 
 There is also a shortcut command that allows you to create and switch to a branch at the same time:
 
@@ -57,8 +57,8 @@ This command creates a new branch in your local (-b stands for branch) and check
 
 	Whether the current branch is up to date
 	Whether there is anything to commit, push or pull
-    Whether there are files staged, unstaged or untracked
-    Whether there are files created, modified or deleted
+	Whether there are files staged, unstaged or untracked
+	Whether there are files created, modified or deleted
 
 
 
