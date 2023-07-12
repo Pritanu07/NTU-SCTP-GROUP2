@@ -1,5 +1,4 @@
-
- Most useful realtime git commands:
+Most useful realtime git commands:
 
 Git is an important part of daily programming (especially if you're working with a team) and is widely used in the software industry.Since there are many various commands  one can use, mastering Git takes time. But some commands are used more frequently (some daily).
 
@@ -9,7 +8,7 @@ Git clone is a command for downloading existing source code from a remote reposi
 
 git clone https://name-of-the-repository-link
 
-For example, if we want to download a project from GitHub, all we need to do is click on the green button (clone or download), copy the URL in the box and paste it after the git clone command that I've shown right above. This will make a copy of the project to your local workspace so you can start working with it.
+If we want to download a project from GitHub, all we need to do is click on the green button (clone or download), copy the URL in the box and paste it after the git clone command that I've shown right above. This will make a copy of the project to your local workspace so you can start working with it.
 
 Git branch
 
@@ -53,12 +52,8 @@ This command creates a new branch in your local (-b stands for branch) and check
 
     git status
 
- We can gather information like: 
-
-	Whether the current branch is up to date
-	Whether there is anything to commit, push or pull
-	Whether there are files staged, unstaged or untracked
-	Whether there are files created, modified or deleted
+ We can gather information like (i) Whether the current branch is up to date
+(ii) Whether there is anything to commit, push or pull (iii) Whether there are files staged, unstaged or untracked (iv)Whether there are files created, modified or deleted
 
 
 
