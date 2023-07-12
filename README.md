@@ -47,15 +47,13 @@ TRACKING PATH CHANGES
 9.git log --stat -M ---> show all commit logs with indication of any paths that moved
 
 INSTALLATION & GUIS
-
 With platform specific installers for Git, GitHub also provides the
 ease of staying up-to-date with the latest releases of the command
 line tool while providing a graphical user interface for day-to-day
 interaction, review, and repository synchronization.
 
 10.GitHub for Windows---> htps://windows.github.com
-11.GitHub for Mac---> htps://mac.github.com for Linux and Solaris platforms, the latest release is available on
-the official Git web site.
+11.GitHub for Mac---> htps://mac.github.com for Linux and Solaris platforms, the latest release is available on the official Git web site.
 12.Git for All Platform---> htp://git-scm.com
 
 STAGE & SNAPSHOT
